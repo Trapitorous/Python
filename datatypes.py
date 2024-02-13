@@ -1,0 +1,8 @@
+my_name=str("Abraham Apollo")
+my_number=int("2112300139")
+my_number2=int("1785739703")
+my_bool=bool(True)
+my_bool2=bool(False)
+my_comp=complex(11)
+print(my_name)
+print(my_number)
